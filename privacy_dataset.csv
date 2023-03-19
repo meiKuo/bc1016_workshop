@@ -1,0 +1,8 @@
+"","name","occupation","zip_code","subscription","birth_sex","race_category","age_group","ever_asthma","rent_delay","servings_of_veggies","neighborhood_poverty_level"
+"1","Janie Phan","Nurse",10245,"RxPass","Female","Asian/PI Non-Hispanic","25-44 yrs","Never Asthma","Rent Delayed","1-4 servings","Low Poverty"
+"2","Aisha Ramachandran","Museum Curator",10134,"her","Female","Asian/PI Non-Hispanic","25-44 yrs","Yes Asthma","Rent Delayed","1-4 servings","High Poverty"
+"3","Michael Johnson","Interior Designer",12342,"CVS Multidose Pack","Male","Black Non-Hispanic","45-64 yrs","Yes Asthma","Rent Delayed","5+ servings","Very High Poverty"
+"4","Peter Nolan","Landscaper",34212,"PillPack","Male","White Non-Hispanic","18-24 yrs","Yes Asthma","Rent Not Delayed","1-4 servings","High Poverty"
+"5","Chris Watson","Pilot",32563,"DivvyDOSE","Male","Black Non-Hispanic","25-44 yrs","Never Asthma","Rent Not Delayed","5+ servings","Very High Poverty"
+"6","Robyn Fenty","Entrepreneur",10956,"RxPass","Female","Hispanic","65+ yrs","Never Asthma","Rent Delayed","1-4 servings","High Poverty"
+"7","Serena X","Athlete",10027,"CareZone","Female","Other Non-Hispanic","18-24 yrs","Yes Asthma","Rent Delayed","1-4 servings","High Poverty"
